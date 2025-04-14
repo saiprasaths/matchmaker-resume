@@ -1,0 +1,10 @@
+streamlit==1.33.0
+PyPDF2==3.0.1
+python-docx==1.0.0
+sentence-transformers==2.5.1
+faiss-cpu==1.8.0
+torch==2.2.1
+transformers==4.38.2
+langchain==0.1.12
+langchain-core>=0.1.31,<0.2.0
+ctransformers==0.2.27
